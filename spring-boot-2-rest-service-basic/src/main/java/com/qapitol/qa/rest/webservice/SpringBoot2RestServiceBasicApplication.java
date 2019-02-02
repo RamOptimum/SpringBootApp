@@ -1,10 +1,7 @@
-package com.in28minutes.springboot.rest.example;
+package com.qapitol.qa.rest.webservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
-
-import com.in28minutes.springboot.rest.example.student.StudentRepository;
 
 @SpringBootApplication
 

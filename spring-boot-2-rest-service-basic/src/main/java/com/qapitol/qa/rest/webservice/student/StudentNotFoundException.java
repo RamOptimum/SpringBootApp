@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.rest.example.student;
+package com.qapitol.qa.rest.webservice.student;
 
 public class StudentNotFoundException extends RuntimeException {
 

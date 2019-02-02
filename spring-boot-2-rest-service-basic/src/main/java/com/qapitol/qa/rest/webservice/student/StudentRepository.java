@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.rest.example.student;
+package com.qapitol.qa.rest.webservice.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

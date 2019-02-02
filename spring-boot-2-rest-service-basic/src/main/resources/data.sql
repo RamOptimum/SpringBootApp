@@ -1,15 +1,15 @@
 insert into Student
-values(10001,'Ranga', 'E1234567');
+values(10001,'Jim-Al-Khalili', 'E1234567');
 
 insert into Student
-values(10002,'Ravi', 'A1234568');
+values(10002,'Fred Hoyle', 'A1234568');
 
 insert into Student
-values(10003,'Roger', 'A1234563');
+values(10003,'George Gamow', 'A1234563');
 
 insert into Student
-values(10004,'Rafa', 'A1234563');
+values(10004,'Robert Wilson', 'A1234563');
 
 insert into Student
-values(10005,'Novak', 'A1234563');
+values(10005,'Paul Dirac', 'A1234563');
 
