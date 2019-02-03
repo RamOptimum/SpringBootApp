@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.rest.example.springboot2restservicebasic;
+package com.qapitol.qa.rest.webservice.tests;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
