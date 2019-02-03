@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-public class SpringBoot2RestServiceBasicApplication {
+public class SpringBootApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBoot2RestServiceBasicApplication.class, args);
+		SpringApplication.run(SpringBootApp.class, args);
 	}
 
 }

@@ -9,10 +9,10 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.in28minutes.springboot.rest.example</groupId>
-	<artifactId>spring-boot-2-rest-service-basic</artifactId>
+	<groupId>com.qapitol.qa.rest.webservice</groupId>
+	<artifactId>spring-boot-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-2-rest-service-basic</name>
+	<name>spring-boot-app</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
